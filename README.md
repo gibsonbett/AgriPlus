@@ -5,12 +5,12 @@ Portfolio
 By Gibson Bett
 
 # Table of Contents
-- Description
-- Installation Requirement
-- Technology Used
-- Reference
-- Licence
-- Authors Info
+- [Description](https://github.com/gibsonbett/AgriPlus/edit/gh-pages/README.md#Description)
+- [Installation Requirement]
+- [Technology Used]
+- [Reference]
+- [Licence]
+- [Authors Info]
 
 # Description
 
