@@ -15,13 +15,10 @@ By Gibson Bett
 # Description
 
 # Installation
-[Go back to the top](https://github.com/gibsonbett/AgriPlus/edit/gh-pages/README.md#Go-back-to-the-top)
 
 # Requirements
 - Either a computer,phone,tablet or an Ipad
 - An access to the Internet
-
-Go Back to the top
 
 # Technology Used
 - HTML - which was used to build the structure of the pages.
@@ -42,5 +39,3 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 # Authors Info
 Slack Profile - Gibson Bett
-
-[Go back to the top](https://github.com/gibsonbett/AgriPlus/edit/gh-pages/README.md#Go-back-to-the-top)
