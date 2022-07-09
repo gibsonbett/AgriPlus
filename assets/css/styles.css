@@ -44,7 +44,7 @@ body{
     color: #fff;
 }
 .get_started_btn{
-    color: #fff;
+    color: #ED661F;
 }
 .welcome_area {
     display: flex;
@@ -55,6 +55,12 @@ body{
     height: inherit;
 }
 .description_title{
-    font-size: 50px;
+    font-size: 20px;
     font-weight: 500;
+}
+.explore_more_btn{
+    display: flex;
+    align-items: center;
+    width: 40%;
+    justify-content: space-between;
 }
