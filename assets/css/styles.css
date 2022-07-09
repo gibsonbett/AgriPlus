@@ -1,0 +1,33 @@
+.container{
+    width: 100%;
+}
+.nav_bar{
+    padding: 1% 6%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: black;
+    flex: 1;
+}
+
+.logo{
+    color: #fff;
+    margin-left: 15px;
+}
+.nav_links ul li{
+    display: inline-block;
+    text-align: center;
+    align-items: center;
+}
+.nav_links ul li a{
+    color: #fff;
+    display: inline-block;
+    padding: 12px;
+    text-decoration: none;   
+}
+.log_in_btn{
+    color: #fff;
+}
+.get_started_btn{
+    color: #fff;
+}
