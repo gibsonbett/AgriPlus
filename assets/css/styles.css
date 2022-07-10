@@ -404,7 +404,6 @@ body {
 .iphon-android {
 	display: flex;
 	align-items: center;
-    justify-content: space-between;
     
 }
 .iphon-android > img {
