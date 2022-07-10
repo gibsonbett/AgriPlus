@@ -24,6 +24,7 @@ By Gibson Bett
 - HTML - which was used to build the structure of the pages.
 
 - CSS - which was used to style the pages incuding the left aside navigation bar
+- Google Fonts and Icons
 
 # Reference
 Materialize CSS Go Back to the top
