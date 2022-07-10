@@ -46,17 +46,23 @@ body{
 .get_started_btn{
     color: #ED661F;
 }
-.welcome_area {
+.welcome_section{
     display: flex;
     align-items: center;
+    background-image: url(/assets/css/images/);
 }
 .description_title > h1 {
     width: inherit;
     height: inherit;
 }
-.description_title{
+.description_title >h1{
+    font-size: 35px;
+    font-weight: bolder;
+}
+.description_title >p {
     font-size: 20px;
-    font-weight: 500;
+	padding-top: 30px;
+	padding-bottom: 30px;
 }
 .explore_more_btn{
     display: flex;
