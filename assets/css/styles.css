@@ -402,11 +402,9 @@ body {
 	font-weight: 500;
 }
 .iphon-android {
-	display: flex;
-	align-items: center;
-    
+	display: flex;    
 }
-.iphon-android > img {
+.iphon-android {
 	height: 50px;
 }
 .first-li-column > ul > li {
