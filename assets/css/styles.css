@@ -403,9 +403,15 @@ body {
 }
 .iphon-android {
 	display: flex;    
+	justify-content: space-around;
+	align-items: flex-start;
+	flex-direction: column;
 }
-.iphon-android {
-	height: 50px;
+#img1 {
+	height: 40px;
+}
+#img2 {
+	height: 120px;
 }
 .first-li-column > ul > li {
 	list-style-type: none;
