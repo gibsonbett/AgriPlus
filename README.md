@@ -25,7 +25,7 @@ Agri-Plus agricultural  produce company website.
 - Google Fonts and Icons
 
 # Reference
-Materialize CSS Go Back to the top
+Materialize CSS
 
 # License
 Copyright (c) [2019] [Gibson Bett]
