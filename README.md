@@ -6,15 +6,13 @@ By Gibson Bett
 
 # Table of Contents
 - [Description](https://github.com/gibsonbett/AgriPlus/edit/gh-pages/README.md#Description)
-- [Installation Requirement](https://github.com/gibsonbett/AgriPlus/edit/gh-pages/README.md#Installation-Requirement)
 - [Technology Used](https://github.com/gibsonbett/AgriPlus/edit/gh-pages/README.md#Technology-Used)
 - [Reference](https://github.com/gibsonbett/AgriPlus/edit/gh-pages/README.md#Reference)
 - [Licence](https://github.com/gibsonbett/AgriPlus/edit/gh-pages/README.md#Licence)
 - [Authors Info](https://github.com/gibsonbett/AgriPlus/edit/gh-pages/README.md#Authors-Info)
 
 # Description
-
-# Installation
+Agri-Plus agricultural  produce company website.
 
 # Requirements
 - Either a computer,phone,tablet or an Ipad
