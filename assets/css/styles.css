@@ -10,14 +10,14 @@ body {
 	background-color: #ed661f;
 }
 
-@media (min-width: 1290px) {
-	.container {
+@media all and (min-width: 1290px) {
+	body {
 		max-width: 1290px !important;
 		margin: auto !important;
 		height: 100%;
 	}
 }
-.container {
+body {
 	width: 100%;
 }
 .active {
